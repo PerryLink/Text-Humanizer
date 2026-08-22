@@ -1,4 +1,5 @@
 # Text Humanizer 🤖➡️👤
+[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?logo=gitee)](https://gitee.com/perrylink/text-humanizer)
 
 > Stop sounding like a bot. Instantly check your text's "Humanity Score".
 

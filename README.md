@@ -26,7 +26,8 @@
 #### Installation
 
 ```bash
-pip install text-humanizer
+pip install "git+https://github.com/PerryLink/Text-Humanizer.git"
+# (installs from source; not yet on PyPI)
 ```
 
 Or install from source:
@@ -129,7 +130,8 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 #### 安装
 
 ```bash
-pip install text-humanizer
+pip install "git+https://github.com/PerryLink/Text-Humanizer.git"
+# （PyPI 未发布，源码直装）
 ```
 
 或从源码安装:
